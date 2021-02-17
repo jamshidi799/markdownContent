@@ -61,7 +61,7 @@ questions:
       - asyncData is blocking while fetch is not
     correctAnswer: asyncData is blocking while fetch is not
 ---
-
+${toc}
 <app-modal :src="img" :alt="imgAlt"></app-modal>
 
 No matter which tool you use, you will always feel more confident when you understand how the tool works under the hood. The same applies to Nuxt.js. The goal of this chapter is to give you a high-level overview of the different parts of the framework, their order of execution and how they work together.
