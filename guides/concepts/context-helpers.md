@@ -45,6 +45,11 @@ questions:
       - ssr, spa and static
     correctAnswer: server, client and static
 
-${toc}\n\n# Title\n\n## Section 1\n\n### Sub Section 1\n\n### Sub Section 2\n\n## Section 2
+
 ---
-${toc}\n\n# Title\n\n## Section 1\n\n### Sub Section 1\n\n### Sub Section 2\n\n## Section 2
+${toc}
+# Title
+## Section 1
+### Sub Section 1
+### Sub Section 2
+## Section 2
